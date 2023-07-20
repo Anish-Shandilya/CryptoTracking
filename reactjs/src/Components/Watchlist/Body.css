@@ -1,0 +1,22 @@
+.contect-section{
+    text-align: center;
+    display: flex;
+}
+
+.content-heading, h2{
+    padding: 10px;
+    font-size: 30px;
+    background-color: darkorange;
+    color: white;
+    margin: 0px;
+    border-radius: 0.7rem 0.7rem 0rem 0rem;
+    background-image: linear-gradient(to left, #d35e3a , #e3c46f);
+}
+
+.table-container {
+    padding: 50px;
+}
+
+
+
+

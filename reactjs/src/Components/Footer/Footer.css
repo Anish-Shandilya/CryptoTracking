@@ -1,0 +1,61 @@
+.footer-section{
+    
+    height: 20vh;
+    background-color: #bb6d36;
+    padding: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    color: whitesmoke;
+    border-radius: 9rem 9rem 0rem 0rem;
+    
+}
+
+.address-section{
+    width: 22%;
+    margin-left: 134px;
+    text-align: center;
+}
+
+.address-details{
+    display: flex;
+}
+
+.address-details > i{
+    margin-right: 7px;
+}
+
+.fab{
+    padding: 10px;
+}
+
+.quick-links{
+    margin-right: 30px;
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.social-link-section{
+    width: 33%;
+    text-align: center;
+}
+
+.social-link{
+    text-decoration: none;
+    text-decoration-color: none;
+    color: unset;
+    color: whitesmoke;
+}
+
+.quick-link-section{
+    width: 33%;
+    text-align: center;
+}
+
+
+.quick-link-list{
+    list-style-type: none;
+}
+
+/* align item */
